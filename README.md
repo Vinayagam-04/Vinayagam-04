@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vinayagam-04
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate on ML/AI
+- 💞️ I’m looking to collaborate on AI/ML
 
 
 <!---
